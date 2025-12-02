@@ -1,10 +1,8 @@
-# dinner-stranger-booking
-Book your seat and meet 5 strangers over dinner - all matched by our personality algorithm
-
+# get-social-life
+Build your social network and find like-minded people to connect with - through personality-matched group activities and experiences
 ## 🎯 Overview
 
-A modern web application that brings strangers together for meaningful dinner experiences. Using advanced personality matching algorithms, we create diverse groups of 6 people who will have engaging conversations and create memorable connections.
-
+A modern platform designed to help people expand their social circle by discovering group activities and events with personality-matched participants. Whether you're new to a city or looking to meet like-minded people, get-social-life connects you with engaging social experiences.
 ## ✨ Features
 
 - **Smart Matching Algorithm**: Our AI-powered personality assessment matches you with 5 compatible strangers
