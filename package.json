@@ -1,5 +1,5 @@
 {
-  "name": "dinner-stranger-booking",
+  "name": "get-social-life",
   "version": "1.0.0",
   "description": "Book your seat and meet 5 strangers over dinner - all matched by our personality algorithm",
   "main": "server/index.js",
