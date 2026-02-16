@@ -187,6 +187,37 @@ Example: Two people both answer "extroverted" + "tech background" = high similar
 - [ ] AI chatbot for post-dinner networking tips
 - [ ] Sponsor partnerships (restaurants, brands)
 
+## 💰 For Investors
+
+Get Social Life is a high-growth social platform solving the loneliness problem for 300M+ young professionals in India's cities. We're launching in Hyderabad with a proven unit economics model and immediate path to scale.
+
+### Why Invest?
+
+- **Massive Market**: 100M+ professionals aged 22-35 in Indian metros; growing at 15% annually
+- **Network Effects**: Personality matching creates viral retention; users become super-connectors
+- **Multiple Revenue Streams**: B2C (dinners), B2B2C (employer partnerships), premium features, venue commissions
+- **Founder Traction**: Core algorithm built, MVP tested with early users
+- **Proven Unit Economics**: First 100 dinners cost ₹2,500; retail at ₹800–1,200 per head
+
+### Investment Ask
+
+**Seed Round: $250K–$500K**
+- Launch in Hyderabad (100 dinners/month within 90 days)
+- Expand to Bangalore + Pune (Q2 2025)
+- Build mobile app (Q3 2025)
+- Hire founding team (1–2 engineers, 1 operations lead)
+
+### Contact Us for Investor Deck
+
+📧 **Email**: [investors@getsociallife.in](mailto:investors@getsociallife.in)  
+🔗 **LinkedIn**: [Ramji Bharath](https://linkedin.com/in/ramji-bharath)  
+💬 **Telegram**: @ramji3030  
+🤝 **Let's talk growth**: Reply to this repo or book a 20-min call
+
+---
+
+
+
 ## 💬 Feedback & Support
 
 Have questions or bugs? Open an issue on GitHub or email us at [hello@getsociallife.in](mailto:hello@getsociallife.in).
