@@ -214,6 +214,8 @@ Get Social Life is a high-growth social platform solving the loneliness problem 
 💬 **Telegram**: @ramji3030  
 🤝 **Let's talk growth**: Reply to this repo or book a 20-min call
 
+- [**US Investor Strategy**](./US_INVESTORS.md) — Cross-border & US outreach plan
+
 ---
 
 
