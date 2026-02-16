@@ -215,6 +215,20 @@ Ramji
 
 ---
 
-**Good luck! Now go close that round.** 💰
+**Good luck! Now go close that round.** 💰Add Competitive Edge section to investor outreach docs
 
 *Last updated: Feb 2025*
+
+
+## Competitive Edge: Why We Win vs. Generic Platforms
+
+| Feature | Get Social Life | Generic Event Apps (Belong, etc.) | Global Players (Timeleft) |
+| :--- | :--- | :--- | :--- |
+| **Matching** | 5D personality algorithm | Interest-based / Random | Basic personality / High cost |
+| **Context** | Built for Indian professional hub | General social | US/EU focused (not localized) |
+| **Pricing** | ₹299 + Venue (Hyper-local) | High ticket / Membership | $20-30/dinner (too high for India) |
+| **Safety** | Phone + LinkedIn verification | Variable | Generic verification |
+| **Retention** | Feedback loop improves matches | One-off events | Subscription-based |
+
+### The "Ruthless" Advantage
+We aren't a "networking" app. We are infrastructure for real-world friendships. In India, people don't want another LinkedIn; they want a dinner table where they aren't the awkward stranger. We solve that with math.
