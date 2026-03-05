@@ -99,8 +99,7 @@ Ramji
 ### Step 2: Pitch Polish
 - [ ] Convert all currency to **USD** in the US deck ($1 = ₹83)
 - [ ] Highlight the "Technical Founder" narrative (coding + AWS + ML)
-- [ ] Reference US comps: "Timeleft for the India market" or "Hinge for Friendships"
-
+- [ ] Reference US comps: "Hinge for Friendships"
 ### Step 3: Y Combinator Prep
 - [ ] Fill out YC application (Draft)
 - [ ] Focus on the "Matching Algo" as the core differentiator
