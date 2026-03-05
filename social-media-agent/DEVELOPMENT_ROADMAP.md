@@ -53,7 +53,7 @@ class BaseAgent(ABC):
 **Purpose**: Detect trending topics and analyze competitor posts
 **Key Methods**:
 - `fetch_twitter_trends()` - Get trending topics from Twitter/X API
-- `fetch_competitor_posts()` - Analyze posts from Belong, TimeLeft, Radiate
+- `fetch_competitor_posts()` - Analyze posts from Belong, Radiate
 - `calculate_trend_score()` - Score relevance to Get Social Life
 - `generate_trend_report()` - Create actionable trend insights
 
