@@ -222,7 +222,7 @@ Ramji
 
 ## Competitive Edge: Why We Win vs. Generic Platforms
 
-| Feature | Get Social Life | Generic Event Apps (Belong, etc.) | Global Players (Timeleft) |
+| Feature | Get Social Life | Generic Event Apps (Belong, etc.) | Global Players  |
 | :--- | :--- | :--- | :--- |
 | **Matching** | 5D personality algorithm | Interest-based / Random | Basic personality / High cost |
 | **Context** | Built for Indian professional hub | General social | US/EU focused (not localized) |
